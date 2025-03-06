@@ -108,7 +108,7 @@ Here’s a quick overview:
 We’ve created more repositories to make AI integration even simpler and more powerful! Check them out:
 
 - **[Filament Assistant](https://github.com/AssistantEngine/filament-assistant)**: Add conversational AI capabilities directly into Laravel Filament.
-- - **[Open Functions Core](https://github.com/AssistantEngine/open-functions-core)**: This library provides a set of primitives that simplify LLM calling.
+- **[Open Functions Core](https://github.com/AssistantEngine/open-functions-core)**: This library provides a set of primitives that simplify LLM calling.
 
 > We are a young startup aiming to make it easy for developers to add AI to their applications. We welcome feedback, questions, comments, and contributions. Feel free to contact us at [contact@assistant-engine.com](mailto:contact@assistant-engine.com).
 
