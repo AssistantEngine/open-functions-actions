@@ -1,0 +1,37 @@
+{
+    "name": "assistant-engine/open-functions-actions",
+    "description": "A PHP package that serializes OpenFunctions into ready-to-use ChatGPT actions.",
+    "type": "library",
+    "keywords": [
+        "assistant-engine",
+        "laravel",
+        "open ai",
+        "LLM",
+        "GenAI"
+    ],
+    "homepage": "https://github.com/AssistantEngine/open-functions-actions",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Florian Weigang",
+            "email": "florian@assistant-engine.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "AssistantEngine\\OpenFunctions\\Actions\\": "src/"
+        }
+    },
+    "require": {
+        "assistant-engine/open-functions-core": "^1.0",
+        "illuminate/http": "^10.2|^11.0|^12.0"
+    }
+}
