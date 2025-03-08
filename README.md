@@ -1,8 +1,12 @@
+<div align="center">
+
+![Demo Assistant Example](media/open-functions-actions.gif)
+
+</div>
+
 # Open Functions Actions
 
 This repository helps to connect **OpenFunctions** as Actions to Custom GPTs inside ChatGPT. It provides an easy way to serialize **OpenFunctions** to the required OpenAPI schema and includes a controller to receive requests directly from ChatGPT.
-
-![Demo Assistant Example](media/open-functions-actions.gif)
 
 ## Installation
 
